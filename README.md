@@ -19,7 +19,7 @@
 ![Lilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=GangchanPaldeu&show_icons=true&theme=tokyonight)
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=GangchanPaldeu&show_icons=true&theme=tokyonight)
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GangchanPaldeu&theme=city_lights&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GangchanPaldeu&theme=prussian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
 <!--
