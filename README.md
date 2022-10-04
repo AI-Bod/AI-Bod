@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/GangchanPaldeu"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepMind&layout=compact" alt="Paldeu">
+  <a href="https://github.com/GangchanPaldeu"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepmind&layout=compact" alt="Paldeu">
   </a>
 </p>
 
