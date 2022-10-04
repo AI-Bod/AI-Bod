@@ -12,7 +12,7 @@
 </p>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/GangchanPaldeu)-->
-<center><span >🌻ཀ་ཁ་ག་ང་། ཅ་ཆ་ཇ་ཉ། ཏ་ཐ་ད་ན། པ་ཕ་བ་མ། ཙ་ཚ་ཛ་ཝ། ཞ་ཟ་འ་ཡ། ར་ལ་ཤ་ས། ཧ་ཨ། །🌻</span></center>
+<center 🌻ཀ་ཁ་ག་ང་། ཅ་ཆ་ཇ་ཉ། ཏ་ཐ་ད་ན། པ་ཕ་བ་མ། ཙ་ཚ་ཛ་ཝ། ཞ་ཟ་འ་ཡ། ར་ལ་ཤ་ས། ཧ་ཨ། །🌻></center>
 
 ![GangchanPaldeu's GitHub stats](https://github-readme-stats.vercel.app/api?username=GangchanPaldeu&show_icons=true&theme=prussian)
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=GangchanPaldeu&show_icons=true&theme=prussian)
