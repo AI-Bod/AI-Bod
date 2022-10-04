@@ -16,8 +16,8 @@
 [![微信公众号](https://img.shields.io/badge/微信公众号-white?logo=wechat)](https://res.cloudinary.com/lilian-photos/image/upload/v1585391408/cover/wechat-qrcode-scan-to-follow.jpg)
 
 
-![Lilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=GangchanPaldeu&show_icons=true&theme=tokyonight)
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=GangchanPaldeu&show_icons=true&theme=tokyonight)
+![GangchanPaldeu's GitHub stats](https://github-readme-stats.vercel.app/api?username=GangchanPaldeu&show_icons=true&theme=prussian)
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=GangchanPaldeu&show_icons=true&theme=prussian)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GangchanPaldeu&theme=prussian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
