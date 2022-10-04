@@ -21,4 +21,4 @@
 - 💻 མི་བཟློག་བརྟན་པའི་བརྩོན་འགྲུས་གོ་བགོས་ན། ། - 🏇 ལུང་རྟོགས་ཡོན་ཏན་ཡར་ངོའི་ཟླ་བཞིན་འཕེལ། །
 - 🏀 སྤྱོད་ལམ་ཐམས་ཅད་དོན་དང་ལྡན་པར་འགྱུར། ། - 🏡 གང་བརྩམས་ལས་ཀྱི་མཐའ་རྣམས་ཡིད་བཞིན་འགྲུབ། །
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/GangchanPaldeu/GangchanPaldeu))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/GangchanPaldeu/GangchanPaldeu)
