@@ -25,7 +25,7 @@
 ![Lilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=GangchanPaldeu&show_icons=true&theme=city_lights)
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=GangchanPaldeu&show_icons=true&theme=city_lights)
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GangchanPaldeu&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GangchanPaldeu&theme=prussian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--
 **lilin90/lilin90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
