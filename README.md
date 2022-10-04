@@ -8,6 +8,7 @@
 
 <p align="left">
   <a href="https://github.com/GangchanPaldeu"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Paldeu">
+    <span >ཨོཾ་བདེ་ལེགས་སུ་གྱུར་ཅིག</span></p>
   </a>
 </p>
 
@@ -15,7 +16,7 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/GangchanPaldeu)-->
 
 
-<p align="right">一部分文字<span style="float:right;">另一部分文字</span></p>
+<span >ཨོཾ་བདེ་ལེགས་སུ་གྱུར་ཅིག</span></p>
 <p align="right">
   <b ཨོཾ་བདེ་ལེགས་སུ་གྱུར་ཅིག></b>
 </p>
