@@ -22,10 +22,10 @@
 [![知乎](https://img.shields.io/badge/知乎-white?logo=zhihu)](https://www.zhihu.com/people/liliansd)
 [![微信公众号](https://img.shields.io/badge/微信公众号-white?logo=wechat)](https://res.cloudinary.com/lilian-photos/image/upload/v1585391408/cover/wechat-qrcode-scan-to-follow.jpg)
 
-![Lilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=GangchanPaldeu&show_icons=true&theme=tokyonight)
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=GangchanPaldeu&show_icons=true&theme=tokyonight)
+![Lilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=GangchanPaldeu&show_icons=true&theme=city_lights)
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=GangchanPaldeu&show_icons=true&theme=city_lights)
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GangchanPaldeu&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GangchanPaldeu&theme=city_lights&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--
 **lilin90/lilin90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
