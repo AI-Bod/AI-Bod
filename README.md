@@ -7,17 +7,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/GangchanPaldeu"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="666">
+  <a href="https://github.com/GangchanPaldeu"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Paldeu">
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" href="https://github.com/GangchanPaldeu">
-</p>
-<center>支持向量机</center>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/GangchanPaldeu)
-</center>
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/GangchanPaldeu)-->
+
 
 
 <p align="left">
