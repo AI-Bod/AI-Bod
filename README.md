@@ -15,17 +15,15 @@
   <font >🌻སླའོ། །ཀ་ཁ་ག་ང་། ཅ་ཆ་ཇ་ཉ། ཏ་ཐ་ད་ན། པ་ཕ་བ་མ། ཙ་ཚ་ཛ་ཝ། ཞ་ཟ་འ་ཡ། ར་ལ་ཤ་ས། ཧ་ཨ། །🌻</font>
 </p>
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/GangchanPaldeu)-->
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/GangchanPaldeu)
 ![GangchanPaldeu's GitHub stats](https://github-readme-stats.vercel.app/api?username=GangchanPaldeu&show_icons=true&theme=prussian)
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=GangchanPaldeu&show_icons=true&theme=prussian)-->
 
 <p align="center">
-  <a href="https://github.com/GangchanPaldeu"><img src="https://github-readme-stats.vercel.app/api?username=GangchanPaldeu&show_icons=true&theme=prussian" alt="Paldeu">
-  <a href="https://github.com/GangchanPaldeu"><img src="https://https://github-readme-streak-stats.herokuapp.com/?user=GangchanPaldeu&show_icons=true&theme=prussian" alt="Paldeu">
+  <a img src="https://github-readme-stats.vercel.app/api?username=GangchanPaldeu&show_icons=true&theme=prussian" alt="Gangchan">
+  <a img src="https://github-readme-streak-stats.herokuapp.com/?user=GangchanPaldeu&show_icons=true&theme=prussian" alt="Paldeu">
   </a>
 </p>
-
-
 
 <p align="center">
   <span >མི་བཟློག་བརྟན་པའི་བརྩོན་འགྲུས་གོ་བགོས་ན། །ལུང་རྟོགས་ཡོན་ཏན་ཡར་ངོའི་ཟླ་བཞིན་འཕེལ། །སྤྱོད་ལམ་ཐམས་ཅད་དོན་དང་ལྡན་པར་འགྱུར། །གང་བརྩམས་ལས་ཀྱི་མཐའ་རྣམས་ཡིད་བཞིན་འགྲུབ། །</span>
