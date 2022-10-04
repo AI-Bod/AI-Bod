@@ -15,7 +15,7 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/GangchanPaldeu)-->
 
 
-
+<p style="text-align:left;">一部分文字<span style="float:right;">另一部分文字</span></p>
 <p align="right">
   <b ཨོཾ་བདེ་ལེགས་སུ་གྱུར་ཅིག></b>
 </p>
