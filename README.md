@@ -16,7 +16,7 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GangchanPaldeu&theme=prussian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/GangchanPaldeu/GangchanPaldeu)
+   <img src="[(https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/GangchanPaldeu/GangchanPaldeu)">
 </p>
 
 ཨོཾ་བདེ་ལེགས་སུ་གྱུར་ཅིག:
