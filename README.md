@@ -7,9 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"(https://github.com/GangchanPaldeu)
-  <a href="https://github.com/GangchanPaldeu"></a>
-  >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" href="https://github.com/GangchanPaldeu">
 </p>
             
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/GangchanPaldeu)
