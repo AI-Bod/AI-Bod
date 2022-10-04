@@ -7,8 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"(https://github.com/GangchanPaldeu)>
-  <a href="https://github.com/GangchanPaldeu" target="_blank" title="点击"></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"(https://github.com/GangchanPaldeu)
+  <a href="https://github.com/GangchanPaldeu"></a>
+  >
 </p>
             
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/GangchanPaldeu)
