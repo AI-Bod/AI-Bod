@@ -12,8 +12,8 @@
 
 ### Get in touch
 
-[![GaangchanPaldeu](https://github.com/GangchanPaldeu)](https://lilianlee.me/)
-[![GitHub](https://github.com/GangchanPaldeu)](https://github.com/lilin90)
+[![GangchanPaldeu](https://img.shields.io/badge/lilianlee.me-orange)]([https://lilianlee.me/](https://github.com/GangchanPaldeu))
+[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/lilin90)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/lilian-lee-54305777/)
 [![Twitter](https://img.shields.io/badge/Twitter-white?logo=twitter)](https://twitter.com/lilianlee90/)
 [![Instagram](https://img.shields.io/badge/Instagram-white?logo=instagram)](https://www.instagram.com/lilianlee.me/)
