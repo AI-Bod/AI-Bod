@@ -10,12 +10,6 @@
    <img src="https://github-readme-stats.vercel.app/api?username=GangchanPaldeu&theme=city_lights&show_icons=true">
 </p>
 
-### Get in touch
-
-[![知乎](https://img.shields.io/badge/知乎-white?logo=zhihu)](https://www.zhihu.com/people/liliansd)
-[![微信公众号](https://img.shields.io/badge/微信公众号-white?logo=wechat)](https://res.cloudinary.com/lilian-photos/image/upload/v1585391408/cover/wechat-qrcode-scan-to-follow.jpg)
-
-
 ![GangchanPaldeu's GitHub stats](https://github-readme-stats.vercel.app/api?username=GangchanPaldeu&show_icons=true&theme=prussian)
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=GangchanPaldeu&show_icons=true&theme=prussian)
 
@@ -24,9 +18,9 @@
 
 ཨོཾ་བདེ་ལེགས་སུ་གྱུར་ཅིག:
 
-- 🔭 མི་བཟློག་བརྟན་པའི་བརྩོན་འགྲུས་གོ་བགོས་ན། །
-- ལུང་རྟོགས་ཡོན་ཏན་ཡར་ངོའི་ཟླ་བཞིན་འཕེལ། །
-- སྤྱོད་ལམ་ཐམས་ཅད་དོན་དང་ལྡན་པར་འགྱུར། །
-- གང་བརྩམས་ལས་ཀྱི་མཐའ་རྣམས་ཡིད་བཞིན་འགྲུབ། །
+- 💻 མི་བཟློག་བརྟན་པའི་བརྩོན་འགྲུས་གོ་བགོས་ན། །
+- 🏇 ལུང་རྟོགས་ཡོན་ཏན་ཡར་ངོའི་ཟླ་བཞིན་འཕེལ། །
+- 🏀 སྤྱོད་ལམ་ཐམས་ཅད་དོན་དང་ལྡན་པར་འགྱུར། །
+- 🏡 གང་བརྩམས་ལས་ཀྱི་མཐའ་རྣམས་ཡིད་བཞིན་འགྲུབ། །
 - 
--                          ---རྗེ་བདག་ཉིད་ཆེན་པོས།
+[![WeChat_GangchanPaldeu](https://img.shields.io/badge/微信公众号-white?logo=wechat)](https://res.cloudinary.com/lilian-photos/image/upload/v1585391408/cover/wechat-qrcode-scan-to-follow.jpg)
