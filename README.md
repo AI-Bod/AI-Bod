@@ -10,3 +10,6 @@
    <img src="https://github-readme-stats.vercel.app/api?username=GangchanPaldeu&theme=city_lights&show_icons=true">
 </p>
 
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=GangchanPaldeu&theme=transparent&show_icons=true">
+</p>
