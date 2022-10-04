@@ -23,4 +23,5 @@
 - 🏀 སྤྱོད་ལམ་ཐམས་ཅད་དོན་དང་ལྡན་པར་འགྱུར། །
 - 🏡 གང་བརྩམས་ལས་ཀྱི་མཐའ་རྣམས་ཡིད་བཞིན་འགྲུབ། །
 - 
-[![WeChat_GangchanPaldeu](https://img.shields.io/badge/微信公众号-white?logo=wechat)](https://res.cloudinary.com/lilian-photos/image/upload/v1585391408/cover/wechat-qrcode-scan-to-follow.jpg)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
