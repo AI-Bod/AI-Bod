@@ -10,6 +10,13 @@
    <img src="https://github-readme-stats.vercel.app/api?username=GangchanPaldeu&theme=city_lights&show_icons=true">
 </p>
 
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=GangchanPaldeu&theme=graywhite&show_icons=true">
-</p>
+export const themes = {
+  default: {
+    title_color: "2f80ed",
+    icon_color: "4c71f2",
+    text_color: "434d58",
+    bg_color: "fffefe",
+    border_color: "e4e2e2",
+};
+
+export default themes;
