@@ -20,8 +20,8 @@
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=GangchanPaldeu&show_icons=true&theme=prussian)-->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GangchanPaldeu&show_icons=true&theme=cobalt2" alt="Gangchan">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GangchanPaldeu&show_icons=true&theme=cobalt2" alt="Paldeu">
+  <img src="https://github-readme-stats.vercel.app/api?username=GangchanPaldeu&show_icons=true&theme=noctis_minimus" alt="Gangchan">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GangchanPaldeu&show_icons=true&theme=noctis_minimus" alt="Paldeu">
 </p>
 
 <p align="center">
