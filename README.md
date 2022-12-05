@@ -1,4 +1,4 @@
-<!-- AI Bod GangchanPaldeu -->
+<!-- AIBod GangchanPaldeu -->
 <p align="center">
   <h1 align="center">💻 AI Bod 🏇</h1>
 </p>
