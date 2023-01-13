@@ -14,7 +14,6 @@
 <p align="center">
   <font >🌻སླའོ། །ཀ་ཁ་ག་ང་། ཅ་ཆ་ཇ་ཉ། ཏ་ཐ་ད་ན། པ་ཕ་བ་མ། ཙ་ཚ་ཛ་ཝ། ཞ་ཟ་འ་ཡ། ར་ལ་ཤ་ས། ཧ་ཨ། །🌻</font>
 </p>
-x
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AI-Bod&show_icons=true&theme=slateorange" alt="Gangchan">
