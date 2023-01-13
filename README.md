@@ -19,6 +19,10 @@
 ![AI-Bod's GitHub stats](https://github-readme-stats.vercel.app/api?username=AI-Bod&show_icons=true&theme=prussian)
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AI-Bod&show_icons=true&theme=prussian)-->
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AI-Bod&show_icons=true&theme=slateorange" alt="Gangchan">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AI-Bod&show_icons=true&theme=slateorange" alt="Paldeu">
+</p>
 
 <p align="center">
   <span >མི་བཟློག་བརྟན་པའི་བརྩོན་འགྲུས་གོ་བགོས་ན། །ལུང་རྟོགས་ཡོན་ཏན་ཡར་ངོའི་ཟླ་བཞིན་འཕེལ། །སྤྱོད་ལམ་ཐམས་ཅད་དོན་དང་ལྡན་པར་འགྱུར། །གང་བརྩམས་ལས་ཀྱི་མཐའ་རྣམས་ཡིད་བཞིན་འགྲུབ། །</span>
