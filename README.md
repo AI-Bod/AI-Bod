@@ -15,9 +15,9 @@
 <h2 align="center">
   <font >🌻སླའོ། །ཀ་ཁ་ག་ང་། ཅ་ཆ་ཇ་ཉ། ཏ་ཐ་ད་ན། པ་ཕ་བ་མ། ཙ་ཚ་ཛ་ཝ། ཞ་ཟ་འ་ཡ། ར་ལ་ཤ་ས། ཧ་ཨ། །🌻</font>
 </h2>
-<p align="center" style="font-family: 'DDC Uchen', serif; font-size: 240px;">
+<h2 align="center" style="font-family: 'DDC Uchen', serif; font-size: 240px;">
   🌻སླའོ། །ཀ་ཁ་ག་ང་། ཅ་ཆ་ཇ་ཉ། ཏ་ཐ་ད་ན། པ་ཕ་བ་མ། ཙ་ཚ་ཛ་ཝ། ཞ་ཟ་འ་ཡ། ར་ལ་ཤ་ས། ཧ་ཨ། །🌻
-</p>
+</h2>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huggingface&layout=compact)](https://github.com/AI-Bod)
 ![AI-Bod's GitHub stats](https://github-readme-stats.vercel.app/api?username=AI-Bod&show_icons=true&theme=prussian)
