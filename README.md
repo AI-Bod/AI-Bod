@@ -1,7 +1,6 @@
 <!-- AIBod GangchanPaldeu -->
 <p align="center">
   <h1 align="center">💻 AIBod 🏇</h1>
-  <h2 align="center">བརྡ་དང་ཐ་སྙད་ཀྱི་གཙུག་ལག</h2>
 </p>
 
 <p align="center">
