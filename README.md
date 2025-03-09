@@ -14,10 +14,10 @@
 <p align="center" style="font-family: 'DDC Uchen', sans-serif; font-size: 18px;">
   🌻སླའོ། །ཀ་ཁ་ག་ང་། ཅ་ཆ་ཇ་ཉ། ཏ་ཐ་ད་ན། པ་ཕ་བ་མ། ཙ་ཚ་ཛ་ཝ། ཞ་ཟ་འ་ཡ། ར་ལ་ཤ་ས། ཧ་ཨ། །🌻
 </p>
-<!-- <p align="center">
+<<p align="center"style="font-family: 'DDC Uchen', >
   <font >🌻སླའོ། །ཀ་ཁ་ག་ང་། ཅ་ཆ་ཇ་ཉ། ཏ་ཐ་ད་ན། པ་ཕ་བ་མ། ཙ་ཚ་ཛ་ཝ། ཞ་ཟ་འ་ཡ། ར་ལ་ཤ་ས། ཧ་ཨ། །🌻</font>
 </p>
- -->
+  
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huggingface&layout=compact)](https://github.com/AI-Bod)
 ![AI-Bod's GitHub stats](https://github-readme-stats.vercel.app/api?username=AI-Bod&show_icons=true&theme=prussian)
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AI-Bod&show_icons=true&theme=prussian)-->
