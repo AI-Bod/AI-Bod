@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/AI-Bod"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkrthakur&layout=compact" alt="Paldeu">
+  <a href="https://github.com/AI-Bod"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkrthakur&layout=compact">
   </a>
 </p>
 
