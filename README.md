@@ -8,11 +8,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/AI-Bod"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkrthakur&layout=compact">
-  </a>
-</p>
-
-<p align="center">
   <span style="font-family: 'DDC Uchen', sans-serif; font-size: 20px;">
     🌻སླའོ། །ཀ་ཁ་ག་ང་། ཅ་ཆ་ཇ་ཉ། ཏ་ཐ་ད་ན། པ་ཕ་བ་མ། ཙ་ཚ་ཛ་ཝ། ཞ་ཟ་འ་ཡ། ར་ལ་ཤ་ས། ཧ་ཨ། །🌻
   </span>
