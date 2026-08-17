@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AI-Bod&show_icons=true&theme=slateorange" alt="Gangchan">
+<!--  <img src="https://github-readme-stats.vercel.app/api?username=AI-Bod&show_icons=true&theme=slateorange" alt="Gangchan"> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AI-Bod&show_icons=true&theme=slateorange" alt="Paldeu">
 </p>
 
