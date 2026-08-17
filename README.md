@@ -8,22 +8,23 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AI-Bod&show_icons=true&theme=slateorange" alt="AI-Bod GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AI-Bod&show_icons=true&theme=slateorange" alt="AI-Bod Streak Stats">
+  <a href="https://github.com/AI-Bod"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkrthakur&layout=compact">
+  </a>
 </p>
 
-<div align="center" style="font-family: 'DDC Uchen', 'Noto Sans Tibetan', sans-serif; font-size: 20px; line-height: 2.5; margin-top: 20px;">
-  <p style="background: #f8f9fa; padding: 15px 25px; border-radius: 12px; display: inline-block; color: #2d2d2d; letter-spacing: 1px;">
-    🌻 སླའོ། །ཀ་ཁ་ག་ང་། ཅ་ཆ་ཇ་ཉ། ཏ་ཐ་ད་ན། པ་ཕ་བ་མ། ཙ་ཚ་ཛ་ཝ། ཞ་ཟ་འ་ཡ། ར་ལ་ཤ་ས། ཧ་ཨ། ། 🌻
-  </p>
-</div>
+<p align="center">
+  <span style="font-family: 'DDC Uchen', sans-serif; font-size: 20px;">
+    🌻སླའོ། །ཀ་ཁ་ག་ང་། ཅ་ཆ་ཇ་ཉ། ཏ་ཐ་ད་ན། པ་ཕ་བ་མ། ཙ་ཚ་ཛ་ཝ། ཞ་ཟ་འ་ཡ། ར་ལ་ཤ་ས། ཧ་ཨ། །🌻
+  </span>
+</p>
 
-<div align="center" style="font-family: 'DDC Uchen', 'Noto Sans Tibetan', sans-serif; font-size: 18px; line-height: 2.2; max-width: 700px; margin: 30px auto; color: #333;">
-  <p style="padding: 20px; border-left: 5px solid #ffa500; background: rgba(255, 165, 0, 0.05); border-radius: 0 8px 8px 0; text-align: center;">
-    མི་བཟློག་བརྟན་པའི་བརྩོན་འགྲུས་གོ་བགོས་ན། །<br>
-    ལུང་རྟོགས་ཡོན་ཏན་ཡར་ངོའི་ཟླ་བཞིན་འཕེལ། །<br>
-    སྤྱོད་ལམ་ཐམས་ཅད་དོན་དང་ལྡན་པར་འགྱུར། །<br>
-    གང་བརྩམས་ལས་ཀྱི་མཐའ་རྣམས་ཡིད་བཞིན་འགྲུབ། །
-  </p>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AI-Bod&show_icons=true&theme=slateorange" alt="Paldeu">
+</p>
+
+<p align="center">
+  <span style="font-family: 'DDC Uchen', sans-serif; font-size: 18px;">
+    མི་བཟློག་བརྟན་པའི་བརྩོན་འགྲུས་གོ་བགོས་ན། །ལུང་རྟོགས་ཡོན་ཏན་ཡར་ངོའི་ཟླ་བཞིན་འཕེལ། །སྤྱོད་ལམ་ཐམས་ཅད་དོན་དང་ལྡན་པར་འགྱུར། །གང་བརྩམས་ལས་ཀྱི་མཐའ་རྣམས་ཡིད་བཞིན་འགྲུབ། །
+  </span>
+</p>
 <!--སྙིང་ལ་རྗེ་བོའི་རྒྱང་རིང་གི་ཁྱོད། དུས་ད་ལྟ་བདེ་མོ་ཡིན་ན།-->
